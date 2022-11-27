@@ -33,6 +33,7 @@ Parabolic and cubic interpolation are used by industries that manufacture parts 
 Manipulate the end effector as per the given configuration. Movement Should Initiate in P1 and progress till the end point. Travel path should be in sequence as stated below.
 
 ## Program
+
 ![k7 1](https://user-images.githubusercontent.com/87744906/204149390-3398dc64-ae3f-4c14-8c63-8e114d91afca.png)
 ![k7 2](https://user-images.githubusercontent.com/87744906/204149351-986e327a-2373-433a-91a2-a0eee3d3ff02.png)
 ![k7 3](https://user-images.githubusercontent.com/87744906/204149355-2adbf784-70b1-4460-80e7-989ba9eaefcc.png)
